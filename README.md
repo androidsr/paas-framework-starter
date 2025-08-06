@@ -1,3 +1,5 @@
+B站视频地址：
+https://www.bilibili.com/video/BV1284dzWECW?spm_id_from=333.788.videopod.sections&vd_source=9daf65e085b5546aa6e317ede8abb9a5
 # SSM 基础脚手架
 ssm基础框架在基于spring boot +mybatis-plus基础之前进行了常见问题解决方案进行了封装处理，为项目提供一个简单实用的基础框架的同时，又不做过多的限制，项目组也可按实际项目需求进行二次封装处理。
 # maven依赖

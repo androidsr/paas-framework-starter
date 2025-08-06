@@ -1,0 +1,8 @@
+paas.framework.web.WebConfig
+paas.framework.web.GlobalExceptionHandler
+paas.framework.web.formatter.JacksonConfig
+paas.framework.web.XssFilter
+paas.framework.web.CorsConfig
+paas.framework.web.XssProperties
+paas.framework.web.RestTemplateConfig
+paas.framework.web.SpringUtils

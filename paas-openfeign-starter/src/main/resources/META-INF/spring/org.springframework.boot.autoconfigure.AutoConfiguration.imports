@@ -1,0 +1,3 @@
+paas.framework.feign.FeignConfig
+paas.framework.feign.JacksonFeignConfig
+paas.framework.feign.FeignConfigProperties

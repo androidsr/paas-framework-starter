@@ -1,0 +1,3 @@
+paas.framework.rabbitmq.RabbitAdminHelper
+paas.framework.rabbitmq.RabbitConfig
+paas.framework.rabbitmq.RabbitmqProperties

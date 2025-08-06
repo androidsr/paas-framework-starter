@@ -1,0 +1,4 @@
+paas.framework.minio.MinioConfig
+paas.framework.minio.MinioProperties
+paas.framework.minio.CustomMinioClient
+paas.framework.minio.MinioService
